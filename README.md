@@ -41,6 +41,7 @@ i. Total Sales by Product:
 ii. Total Sales By Region:
 
 iii. Total Sales By Month:
+
 ### To calculate the metrics based on this data, we can use the following Excel formula:
 
  The AVERAGEIF formula to calculate the average sales for each product.
