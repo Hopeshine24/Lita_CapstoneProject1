@@ -51,7 +51,7 @@ ii. Total Sales By Region:
 
 iii. Total Sales By Month:
 
-![image](https://github.com/user-attachments/assets/1d1c6b0f-f4db-4551-9347-66dd7d8a2882)
+![image](https://github.com/user-attachments/assets/af37019e-2548-4499-8618-1a3f25910b0b)
 
 ### To calculate the metrics based on this data, we can use the following Excel formula:
 
@@ -61,26 +61,23 @@ iii. Total Sales By Month:
 
 Bar Chart Showing Sales trend:
 
-Sales by Product
+- Sales by Product
 
 ![image](https://github.com/user-attachments/assets/0a512bbf-cba3-438f-b073-c89bf4201fb2)
 
 
-Sales By Region:
+- Sales By Region:
 ![image](https://github.com/user-attachments/assets/8161713e-4f7e-4cd9-95c0-6876fe62a6f1)
 
-Sales By Month:
+- Sales By Month:
 
-![image](https://github.com/user-attachments/assets/7c3a4bf9-fa4e-4de5-9f84-2ba99737b0cc)
-
-
-
+![image](https://github.com/user-attachments/assets/79b441a6-436d-4cda-b169-559e9aa1df7b)
 
 Structured Query Language:
 We will write queries to extract key insights based on the following:
 1. The total Sales each each product category
 ```
-   SELECT Product, SUM(Sales) AS Total_Sales
+SELECT Product, SUM(Sales) AS Total_Sales
 FROM [dbo].[Salesperformance]
 GROUP BY Product;
 ```
@@ -118,6 +115,11 @@ FROM Lita_LatestProject
 GROUP BY "Customer_id"
 ORDER BY TotalPurchaseAmount DESC
 ```
-Create a Dashboard
+Using Power BI, a Dashboard will be created:
+
+
+
+
+
 
 
