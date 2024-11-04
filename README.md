@@ -42,11 +42,14 @@ The dataset includes the following key columns:
 Pivot Table
 i. Total Sales by Product:
 
-![image](https://github.com/user-attachments/assets/df84977b-ed21-4cfe-888c-6d1205a07c42)
+![image](https://github.com/user-attachments/assets/d09d0b3a-ce46-4da5-a6a5-f577405a962f)
 
 ii. Total Sales By Region:
 
+![image](https://github.com/user-attachments/assets/70d00097-cc5a-4a7b-b17c-c2102de418be)
+
 iii. Total Sales By Month:
+![image](https://github.com/user-attachments/assets/1d1c6b0f-f4db-4551-9347-66dd7d8a2882)
 
 ### To calculate the metrics based on this data, we can use the following Excel formula:
 
