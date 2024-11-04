@@ -40,6 +40,7 @@ The dataset includes the following key columns:
   
 ## Visual Analysis
 Pivot Table
+
 i. Total Sales by Product:
 
 ![image](https://github.com/user-attachments/assets/d09d0b3a-ce46-4da5-a6a5-f577405a962f)
@@ -49,6 +50,7 @@ ii. Total Sales By Region:
 ![image](https://github.com/user-attachments/assets/70d00097-cc5a-4a7b-b17c-c2102de418be)
 
 iii. Total Sales By Month:
+
 ![image](https://github.com/user-attachments/assets/1d1c6b0f-f4db-4551-9347-66dd7d8a2882)
 
 ### To calculate the metrics based on this data, we can use the following Excel formula:
@@ -57,7 +59,23 @@ iii. Total Sales By Month:
    
    =AVERAGEIF(C:C, "ProductName", H:H)
 
-Bar Chart Showing Sales trend
+Bar Chart Showing Sales trend:
+
+Sales by Product
+
+![image](https://github.com/user-attachments/assets/0a512bbf-cba3-438f-b073-c89bf4201fb2)
+
+
+Sales By Region:
+![image](https://github.com/user-attachments/assets/8161713e-4f7e-4cd9-95c0-6876fe62a6f1)
+
+Sales By Month:
+
+![image](https://github.com/user-attachments/assets/7c3a4bf9-fa4e-4de5-9f84-2ba99737b0cc)
+
+
+
+
 Structured Query Language:
 We will write queries to extract key insights based on the following:
 1. The total Sales each each product category
