@@ -1,8 +1,16 @@
-# Lita_CapstoneProject1
+# Lita_Capstone_Project1
+
 ### TOPIC: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE                                      
 
 ### Overview
-This project collects and analyze the sales performance of a retail store, uncover key insights such as top-selling products, regional performance and monthly sales trends using the following steps and components:
+This project collects and analyze the sales performance of a retail store, uncover key insights such as top-selling products, regional performance and monthly sales trends using the following steps and components.
+
+## Project Objective
+This project was designed to address the following analysis goals:
+i. Total Sales By Product
+ii. Total sales by Region
+iii.  Total sales month
+iv. Average sales per product
 
 ## Data Collected
 The dataset includes the following key columns:
@@ -14,12 +22,7 @@ The dataset includes the following key columns:
 - Quantity: Number of units sold.
 - UnitPrice: Price per unit.
 - Sales: Total sales value (Quantity * UnitPrice).
-## Project Objective
-This project was designed to address the following analysis goals:
-i. Total Sales By Product
-ii. Total sales by Region
-iii.  Total sales month
-iv. Average sales per product
+
 ## Key Metrics:
 - Total Sales: Measure of overall sales value.
 - Top-selling Products: Products that contribute the most to revenue.
@@ -34,9 +37,12 @@ iv. Average sales per product
 2. SQL: Structured Query Language for quering data
 3. Power BI for data modelling
 4. Github for Portfolio building
+  
 ## Visual Analysis
 Pivot Table
 i. Total Sales by Product:
+
+![image](https://github.com/user-attachments/assets/df84977b-ed21-4cfe-888c-6d1205a07c42)
 
 ii. Total Sales By Region:
 
