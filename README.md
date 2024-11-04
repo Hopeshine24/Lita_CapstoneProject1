@@ -90,7 +90,7 @@ SELECT "Customer_id", SUM(Sales) AS TotalPurchaseAmount
 FROM Lita_LatestProject
 GROUP BY "Customer_id"
 ORDER BY TotalPurchaseAmount DESC
-
-Power BI
+```
+Create a Dashboard
 
 
