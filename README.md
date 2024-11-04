@@ -91,4 +91,6 @@ FROM Lita_LatestProject
 GROUP BY "Customer_id"
 ORDER BY TotalPurchaseAmount DESC
 
+Power BI
+
 
