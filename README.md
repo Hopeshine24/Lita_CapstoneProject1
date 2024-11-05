@@ -64,15 +64,14 @@ Bar Chart Showing Sales trend:
 
 - Sales by Product
 
-![image](https://github.com/user-attachments/assets/0a512bbf-cba3-438f-b073-c89bf4201fb2)
-
+![image](https://github.com/user-attachments/assets/ebeb192a-75b5-4637-aa2f-96b3b3c5f74e)
 
 - Sales By Region:
-![image](https://github.com/user-attachments/assets/8161713e-4f7e-4cd9-95c0-6876fe62a6f1)
+
 
 - Sales By Month:
 
-![image](https://github.com/user-attachments/assets/79b441a6-436d-4cda-b169-559e9aa1df7b)
+![image](https://github.com/user-attachments/assets/06f922eb-8e8a-496c-b22b-dd3df15a5f78)
 
 Structured Query Language:
 We will write queries to extract key insights based on the following:
