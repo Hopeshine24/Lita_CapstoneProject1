@@ -60,6 +60,10 @@ Pivot Table
    
    =AVERAGEIF(C:C, "ProductName", H:H)
 
+ - Total Revenue By Region
+   
+   =SUMEIF(C:C, "Region", H:H)
+
 ### Bar Chart Showing Sales trend:
 
 - Sales by Product
@@ -72,7 +76,10 @@ Pivot Table
 
 - Sales By Month:
 
-![image](https://github.com/user-attachments/assets/06f922eb-8e8a-496c-b22b-dd3df15a5f78)
+![image](https://github.com/user-attachments/assets/f3a87162-51b7-4d9c-ac32-f65b1337f3cf)
+
+
+Summary: From the bar chart, we can see that the top selling product are shoes while the month of February has the highest monthly sales trend.
 
 Structured Query Language:
 We will write queries to extract key insights based on the following:
