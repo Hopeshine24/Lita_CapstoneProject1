@@ -43,15 +43,16 @@ Pivot Table
 
 i. Total Sales by Product:
 
-![image](https://github.com/user-attachments/assets/d09d0b3a-ce46-4da5-a6a5-f577405a962f)
+![image](https://github.com/user-attachments/assets/75452e1a-d6f3-4fa6-be35-f87f999fe872)
 
 ii. Total Sales By Region:
 
-![image](https://github.com/user-attachments/assets/70d00097-cc5a-4a7b-b17c-c2102de418be)
+![image](https://github.com/user-attachments/assets/cace9c46-9419-4d1c-8a46-6aa4f7ac7b38)
 
 iii. Total Sales By Month:
 
-![image](https://github.com/user-attachments/assets/af37019e-2548-4499-8618-1a3f25910b0b)
+![image](https://github.com/user-attachments/assets/0aa95ab2-4650-4ef6-806f-4ecdb7dade3a)
+
 
 ### To calculate the metrics based on this data, we can use the following Excel formula:
 
