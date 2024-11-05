@@ -41,26 +41,26 @@ The dataset includes the following key columns:
 ## Visual Analysis
 Pivot Table
 
-i. Total Sales by Product:
+- Total Sales by Product:
 
 ![image](https://github.com/user-attachments/assets/75452e1a-d6f3-4fa6-be35-f87f999fe872)
 
-ii. Total Sales By Region:
+- Total Sales By Region:
 
 ![image](https://github.com/user-attachments/assets/cace9c46-9419-4d1c-8a46-6aa4f7ac7b38)
 
-iii. Total Sales By Month:
+- Total Sales By Month:
 
 ![image](https://github.com/user-attachments/assets/0aa95ab2-4650-4ef6-806f-4ecdb7dade3a)
 
 
 ### To calculate the metrics based on this data, we can use the following Excel formula:
 
- The AVERAGEIF formula to calculate the average sales for each product.
+ - The AVERAGEIF formula to calculate the average sales for each product.
    
    =AVERAGEIF(C:C, "ProductName", H:H)
 
-Bar Chart Showing Sales trend:
+### Bar Chart Showing Sales trend:
 
 - Sales by Product
 
@@ -68,6 +68,7 @@ Bar Chart Showing Sales trend:
 
 - Sales By Region:
 
+![image](https://github.com/user-attachments/assets/4baf45d7-f008-46ed-938e-a5b5565cac68)
 
 - Sales By Month:
 
